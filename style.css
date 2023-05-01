@@ -97,3 +97,17 @@ body{
 .col div p{
     padding-left: 10px;
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    color: red;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    display: none;
+}
